@@ -1,0 +1,9 @@
+{
+  "name": "Copy of PointWonderland Class Management System",
+  "description": "A comprehensive school management platform featuring gamified student rewards, AI lesson planning, campus administration, and resource sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
